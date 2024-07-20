@@ -1,0 +1,7 @@
+[package]
+name = "data-url"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64-mime = { version = "0.1.0", path = "../base64-mime/base64-mime" }
